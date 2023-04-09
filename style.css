@@ -1,3 +1,99 @@
-p {
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.middle-first {
+    text-align: center;
+}
+
+
+.h1color {
+    font-size: 65px;
+    color: beige;
+}
+
+.pcolor {
     color: brown;
+    color: aliceblue;
+}
+
+.background-first {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+
+
+    background-size: cover;
+
+}
+
+.batton {
+    color: rgb(0, 0, 0);
+    background-image: linear-gradient(rgb(176, 103, 103), rgb(127, 127, 248));
+    border-radius: 10px;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: 800;
+}
+
+
+
+
+
+.secondpage {
+    text-align: center;
+}
+
+#header {
+    width: 100%;
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.tk {
+    background-color: dodgerblue;
+    width: 60px;
+    height: 50px;
+
+}
+
+#amountt {
+    text-align: center;
+}
+
+.middle {
+    text-align: center;
+}
+
+.thirdpart {
+    display: flex;
+}
+
+.bg {
+
+    padding: 15px;
+}
+
+.cl {
+    background-color: brown;
+}
+
+.cll {
+    background-color: aqua;
+}
+
+.clll {
+    background-color: blue;
+}
+
+
+
+.half-width {
+    display: flex;
+    padding: 40px;
+}
+
+.half-width img {
+    width: 100%;
 }
